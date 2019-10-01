@@ -12,13 +12,9 @@ Back-end project template with Express.js and Mongoose. Contains:
 
 ## Usage
 
-### Clone repository
+### Using the template
 
-Clone this repository to get started.
-
-```sh
-git clone https://github.com/Ragura/express-mongoose-starter-template.git
-```
+Download this repository to get started. Unzip the contents to have a working project directory. Alternatively, click **Use this template** to create a new Git repository with this template as a base. Then clone the new repository to work locally.
 
 ### Install dependencies
 
